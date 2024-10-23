@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BibleGram</string>
+
+    <!-- Quotes -->
+    <string name="quote_1">"The Lord is my shepherd; I shall not want."</string>
+    <string name="quote_2">"You are the light of the world."</string>
+    <string name="quote_3">"I can do all things through Christ who strengthens me."</string>
+    <string name="quote_4">"I am the way, the truth, and the life."</string>
+    <string name="quote_5">"Trust in the Lord with all your heart and lean not on your own understanding."</string>
+    <string name="quote_6">"Your word is a lamp to my feet and a light to my path."</string>
+    <string name="quote_7">"But those who hope in the Lord will renew their strength."</string>
+    <string name="quote_8">"And now these three remain: faith, hope, and love. But the greatest of these is love."</string>
+    <string name="quote_9">"Ask and it will be given to you; seek and you will find."</string>
+    <string name="quote_10">"Put on the full armor of God."</string>
+    <string name="quote_11">"Be still, and know that I am God."</string>
+    <string name="quote_12">"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."</string>
+    <string name="quote_13">"Do not conform to the pattern of this world, but be transformed by the renewing of your mind."</string>
+    <string name="quote_14">"For we walk by faith, not by sight."</string>
+    <string name="quote_15">"I lift up my eyes to the mountains—where does my help come from?"</string>
+
+    <!-- Authors -->
+    <string name="author_1">Psalm 23:1</string>
+    <string name="author_2">Matthew 5:14</string>
+    <string name="author_3">Philippians 4:13</string>
+    <string name="author_4">John 14:6</string>
+    <string name="author_5">Proverbs 3:5</string>
+    <string name="author_6">Psalm 119:105</string>
+    <string name="author_7">Isaiah 40:31</string>
+    <string name="author_8">1 Corinthians 13:13</string>
+    <string name="author_9">Matthew 7:7</string>
+    <string name="author_10">Ephesians 6:11</string>
+    <string name="author_11">Psalm 46:10</string>
+    <string name="author_12">Jeremiah 29:11</string>
+    <string name="author_13">Romans 12:2</string>
+    <string name="author_14">2 Corinthians 5:7</string>
+    <string name="author_15">Psalm 121:1-2</string>
+    <string name="expand_button_content_description">See more or less information about a bible verse.</string>
+    <string name="about">About:</string>
+    <string name="about_app">Practice the implementation of Jetpack Compose while adhering to Google\'s latest best practices. All illustrations are created independently using Inkscape. All rights reserved. Stay tuned!</string>
+    <string name="about_app_description">About App.</string>
+</resources>
