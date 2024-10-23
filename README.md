@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/featureGraphicBibleGram.png" alt="Logo" width="600"/>
+  <img src="images/featureGraphicBibleGram.png" alt="Logo" width="900"/>
 </div>
 
 ## Table of Contents
@@ -9,7 +9,6 @@
 - [Project Structure](#project-structure)
 - [Vector Images](#vector-images)
 - [App Screenshots](#app-screenshots)
-- [License](#license)
 
 ## Overview
 BibleGram is a self-project inspired by the Google Developers Android Basics with Compose (Unit 3) training. It showcases the implementation of lists and the use of Material Design, following Google's latest best practices for Android development.
@@ -46,13 +45,16 @@ The app structure follows best practices, keeping the code clean, modular, and e
 All vector images used in this project were created by me, and **all rights are reserved**. These images were specifically designed for the app, giving each quote card a unique and visually appealing identity.
 
 ## App Screenshots
-
+### Light Mode: 
 <div align="center">
-  <img src="images/screenshot1.png" alt="Screenshot 1" width="300"/>
-  <img src="images/screenshot2.png" alt="Screenshot 2" width="300"/>
+  <img src="images/light0.jpg" alt="Screenshot 1" width="300"/>
+  <img src="images/light1.jpg" alt="Screenshot 2" width="300"/>
 </div>
 
-## License
+### Dark Mode:
 
-All vector images used in this project are created by me, and all rights are reserved. The project code is licensed under the MIT License.
+<div align="center">
+  <img src="images/dark0.jpg" alt="Screenshot 2" width="300"/>
+  <img src="images/dark1.jpg" alt="Screenshot 2" width="300"/>
+</div>
 
